@@ -1,3 +1,7 @@
+# EDIT
+
+## REMOD CORE IS BROKEN FOR NEW RELEASES, THIS WILL NOT WORK ON LATEST
+
 # Old KARMA
 Cause new karma client sucks
 
